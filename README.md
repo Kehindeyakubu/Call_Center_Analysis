@@ -6,7 +6,10 @@ The primary objective of this project is to empower stakeholders with actionable
 # Data Source
 The data was gotten from kaggle.
 # Dashboard
-![Lagos Crime Aanlysis 2022](https://github.com/user-attachments/assets/a1e47928-d76c-4dce-b963-f6572974e9e2)
+![Call Center Analysis 1](https://github.com/user-attachments/assets/4532f5cf-bbad-4c86-a44f-962631a83dc7)
+
+
+![Call Center Analysis 2](https://github.com/user-attachments/assets/1f5704f8-206a-44b3-9a84-78d4ab31f4f3)
 # Key Insights
 1. **Call Volume Distribution:**
     - The highest call volume was observed on Fridays.
