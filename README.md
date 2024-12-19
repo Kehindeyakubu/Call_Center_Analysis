@@ -8,7 +8,6 @@ The data was gotten from kaggle.
 # Dashboard
 ![Call Center Analysis 1](https://github.com/user-attachments/assets/4532f5cf-bbad-4c86-a44f-962631a83dc7)
 
-
 ![Call Center Analysis 2](https://github.com/user-attachments/assets/1f5704f8-206a-44b3-9a84-78d4ab31f4f3)
 # Key Insights
 1. **Call Volume Distribution:**
